@@ -18,3 +18,4 @@ For software
 - Javascript
 - VS Code
 ## Screenshots
+<img width= "200px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(2).png">
