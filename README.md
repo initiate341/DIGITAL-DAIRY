@@ -4,6 +4,8 @@
 - Member 1: Devi Nanda KG
 - Member 2: Theja AR
 - Member 3: Sreedevi M Santhosh
+## Hosted Project Link
+https://initiate341.github.io/DIGITAL-DAIRY/hackathonnn/
 ## Project Description:
 Digital Diary is a website that allows users to save cherished memories with text and images. Users can create, preview, and download their memories as a beautifully designed PDF. The app features voice-to-text support, dark mode, and a user-friendly interface, making it a perfect tool to capture and preserve special moments.
 ## The Problem Statement:
