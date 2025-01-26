@@ -19,9 +19,9 @@ For software
 - VS Code
 ## Screenshots
 <img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(2).png">
-<img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(3).png">
-<img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(4).png">
-<img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(5).png">
-<img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(6).png">
-<img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(7).png">
+<img width= "900px" alt="mainpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(3).png">
+<img width= "900px" alt="mainpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(4).png">
+<img width= "900px" alt="photo" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(5).png">
+<img width= "900px" alt="photo" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(6).png">
+<img width= "900px" alt="about" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(7).png">
 
