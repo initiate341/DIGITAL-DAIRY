@@ -19,3 +19,5 @@ For software
 - VS Code
 ## Screenshots
 <img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(2).png">
+<img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(2).png">
+
