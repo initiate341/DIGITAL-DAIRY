@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WELCOME</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial, sans-serif';
+            height: 100vh;
+            background: url('https://img.freepik.com/free-vector/hand-drawn-abstract-landscape-cover-collection_23-2149016271.jpg?t=st=1737804056~exp=1737807656~hmac=ec61741705765d6bdfbf4e265c2aee597be3d80509438cb870012da03e2c5529&w=1380')no-repeat center center/cover;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+        
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+           
+            z-index: 0;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            z-index: 1;
+        }
+
+        .button-container {
+            z-index: 1;
+        }
+
+        .main-button {
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            color: white;
+            background-color: #964B00;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        .main-button:hover {
+            background-color: #964B00(211, 139, 13);
+            transform: scale(1.1);
+        }
+
+        .main-button:active {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <h1>“A friend is what the heart needs all the time”</h1>
+    <div class="button-container">
+        <a href="home.html" class="main-button">STORE MEMORIES</a>
+    </div>
+</body>
+</html>

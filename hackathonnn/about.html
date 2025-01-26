@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us | Friendship Diary</title>
+  <style>
+    /* General Page Styling */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #7e3f2a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .header-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .header-text h1 {
+      margin: 0;
+    }
+
+    .header-text p {
+      font-size: 1.2em;
+    }
+
+    .logo {
+      height: 50px;
+    }
+
+    nav {
+      display: flex;
+      gap: 20px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    #logout-button {
+      background-color: #e74c3c;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 1em;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    #logout-button:hover {
+      background-color: #9b271acc;
+    }
+
+    main {
+      margin: 20px;
+    }
+
+    .card {
+      background-color: white;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .card h2 {
+      font-size: 2em;
+      color: #7e3f2a;
+    }
+
+    .card h3 {
+      font-size: 1.5em;
+      margin-top: 20px;
+      color: #333;
+    }
+
+    .card p {
+      font-size: 1.1em;
+      line-height: 1.6;
+    }
+
+    .card ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    .card ul li {
+      margin: 5px 0;
+      font-size: 1.1em;
+    }
+
+    .card a {
+      color: #7e3f2a;
+      text-decoration: none;
+    }
+
+    .card a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      background-color: #7e3f2a;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+
+    /* Mobile responsiveness */
+    @media (max-width: 768px) {
+      .header-container {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      nav {
+        flex-direction: column;
+        gap: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <img src="logo.png" alt="Friendship Diary Logo" class="logo">
+      <div class="header-text">
+        <h1>About Us</h1>
+      </div>
+      <nav>
+        <a href="home.html">Back to Diary</a>
+        <a href="photo.html">Photo Gallery</a>
+      </nav>
+      <button id="logout-button" class="logout-button">Logout</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="about" class="card">
+      <h2>Friendship Diary: Cherish the Memories</h2>
+      <p>Friendship Diary is an innovative digital platform designed to help people of all ages capture and cherish their most treasured memories with friends. Our mission is to provide a safe and personal space where you can write, store, and share moments that matter the most to you.</p>
+
+      <h3>Our Mission</h3>
+      <p>At Friendship Diary, we believe that the stories we share with our friends create bonds that last forever. We created this platform to give you the tools to document your memories and experiences, share your photos, and create lasting keepsakes. Whether it’s a simple text entry or a collection of photos, your moments deserve to be remembered.</p>
+
+      <h3>Created by the Initiative</h3>
+      <p>Friendship Diary was created by a passionate group of developers and memory enthusiasts who wanted to build a tool that could help people preserve the moments that define their friendships. Our initiative focuses on making it easy for users to capture and cherish their memories, regardless of where they are in life.</p>
+
+      <h3>Why Choose Us?</h3>
+      <ul>
+        <li><strong>Simple & User-Friendly:</strong> An intuitive interface designed for all ages.</li>
+        <li><strong>Secure:</strong> Your memories are kept private and safe.</li>
+        <li><strong>Interactive:</strong> Share photos, write memories, and relive your moments anytime, anywhere.</li>
+        <li><strong>Personalized:</strong> Create a unique, digital keepsake of your friendship journey.</li>
+      </ul>
+
+      <h3>Get In Touch</h3>
+      <p>If you have any questions or feedback, feel free to <a href="mailto:support@friendshipdiary.com">email us</a>. We love hearing from you!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Friendship Diary. All rights reserved.</p>
+  </footer>
+</body>
+</html>

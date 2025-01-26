@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friendship Diary</title>
+  <link rel="stylesheet" href="design.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="entrysaving.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <img src="logo.png" alt="Friendship Diary Logo" class="logo">
+      <div class="header-text">
+        <h1><center>Friendship Diary</center></h1>
+        <p><center>Where memories are cherished forever</center></p>
+      </div>
+      <nav>
+        <a href="#write">Write a Memory</a>
+        <a href="photo.html">Photo Gallery</a>
+        <a href="about.html">About Us</a>
+      </nav>
+      <button id="theme-toggle" class="styled-button">Toggle Theme</button>
+      <button id="logout-button" class="logout-button">Logout</button>
+    </div>
+  </header>
+  
+  <main>
+    <section id="friendship-diary">
+      <h2>Welcome to Friendship Diary</h2>
+      <p>Explore the features below to write, store, and cherish your most cherished memories.</p>
+    </section>
+    
+    <hr>
+    <section id="write" class="card">
+      <h2>Write a Memory</h2>
+      <p>Share your favorite moments with your friends:</p>
+      <textarea id="memory-text" class="styled-textarea" placeholder="Write your memory here..."></textarea>
+      <button id="start-voice" class="styled-button">🎤 Start Voice Typing</button>
+      <div id="saved-memories"></div>
+    </section>
+    
+    <hr>
+    <section id="gallery" class="card">
+      <h2>Photo Gallery</h2>
+      <p>Upload and view your favorite photos:</p><br>
+      <label for="image-upload" class="upload-button">Upload Photo</label>
+      <input type="file" id="image-upload" accept="image/*" class="hidden">
+      <div id="image-preview" class="image-preview"></div>
+    </section>
+    
+    <hr>
+    <section id="options" class="card">
+      <button id="save-memory" class="styled-button">Save Memory</button>
+      <button id="save-as-pdf" class="styled-button">Save as PDF</button>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2025 Friendship Diary. All rights reserved.</p>
+  </footer>
+</body>
+</html>
