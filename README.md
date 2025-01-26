@@ -19,9 +19,9 @@ For software
 - VS Code
 ## Screenshots
 Front Page
-
 <img width= "900px" alt="frontpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(2).png">
 Home page
+
 <img width= "900px" alt="mainpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(3).png">
 <img width= "900px" alt="mainpg" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(4).png">
 
