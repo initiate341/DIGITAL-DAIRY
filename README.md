@@ -41,4 +41,4 @@ About Us
 
 
 # Video
-<video width="900px" alt="digital-dairy" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/DIGITAL-DAIRY.mp4">
+https://youtu.be/YUwzki-SVPc?si=GacHSu2YC4hUWDhK
