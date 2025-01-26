@@ -38,4 +38,5 @@ About Us
 <img width= "900px" alt="about" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/Screenshot%20(7).png">
 
 
-
+# Video
+<video width="900px" alt="digital-dairy" src="https://github.com/initiate341/DIGITAL-DAIRY/blob/main/DIGITAL-DAIRY.mp4">
